@@ -1,8 +1,7 @@
 import React from "react";
-import { Form, Button, Card, Container, Row, Alert } from "react-bootstrap";
+import { Alert } from "react-bootstrap";
 const BN = require("bn.js");
 import an from '../assets/an.png';
-import an_1 from '../assets/an-1.png';
 
 const MintingTool = (props) => {
   const mintNFT = async () => {

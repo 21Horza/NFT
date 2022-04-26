@@ -16,7 +16,7 @@ import InfoBubble from "./Components/InfoBubble";
 import Logo from "./assets/logo-white.svg";
 
 import getConfig from "./config";
-const { networkId } = getConfig(process.env.NODE_ENV || "development");
+const { networkId } = getConfig("development");
 
 export default function App() {
   const [userHasNFT, setuserHasNFT] = useState(false);

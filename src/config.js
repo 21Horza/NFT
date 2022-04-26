@@ -1,4 +1,4 @@
-const CONTRACT_NAME = process.env.CONTRACT_NAME ||'my-nft.lime23.testnet'
+const CONTRACT_NAME = 'heyhey23.testnet'
 
 function getConfig(env) {
   switch (env) {
