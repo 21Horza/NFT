@@ -3,7 +3,7 @@ First NEAR NFT mint
 The small app wasi built to demonstrate how to mint NFT on NEAR smart contracts.
 Demo is available here: https://21horza.github.io/nft/
 
-How to
+Step by step guide:
 ----
 
 1. Log in
